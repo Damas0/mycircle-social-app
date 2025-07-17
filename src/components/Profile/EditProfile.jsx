@@ -24,7 +24,7 @@ import useShowToast from "../../hooks/useShowToast";
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: import.meta.env.VITE_OPENAI_KEY,
   dangerouslyAllowBrowser: true,
 });
 
