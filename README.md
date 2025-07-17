@@ -18,13 +18,23 @@
 
 ## 📸 Aperçu de l'application
 
-| Accueil | Rechercher un utilisateur | Ajouter un post |
-|--------|----------------------------|------------------|
-| ![Accueil](screenshots/home.png) | ![Recherche](screenshots/chercher_utilsateur.png) | ![Post](screenshots/ajouter_post.png) |
+### 🏠 Accueil
+![Accueil](./screenshots/home.png)
 
-| Modifier le profil | Chat général | Profil utilisateur |
-|--------------------|--------------|--------------------|
-| ![Profil](screenshots/edit-profil.png) | ![Chat](screenshots/chat.png) | ![Utilisateur](screenshots/profil.png) |
+### 🔎 Recherche d’un utilisateur
+![Recherche](./screenshots/chercher_utilsateur.png)
+
+### 📝 Ajouter un post
+![Post](./screenshots/ajouter_post.png)
+
+### 🧑‍💼 Modifier le profil
+![Modifier le profil](./screenshots/edit-profil.png)
+
+### 💬 Chat général
+![Chat](./screenshots/chat.png)
+
+### 👤 Profil utilisateur
+![Profil utilisateur](./screenshots/profil.png)
 
 ---
 
@@ -39,4 +49,4 @@
 
 ## 📅 Date de finalisation du projet
 
-*26 *Mars 2025**
+📆 **26 mars 2025**
