@@ -1,30 +1,42 @@
-# MyCircle - Réseau Social en React + Firebase
+# 📱 MyCircle – Réseau Social en React & Firebase
 
-MyCircle est une application de réseau social développée avec React et Firebase. Les utilisateurs peuvent créer des comptes, publier des images, discuter dans un chat général, rechercher d'autres utilisateurs et personnaliser leur profil.
+**MyCircle** est une application de réseau social moderne développée avec **React** et **Firebase**, permettant aux utilisateurs de créer un compte, publier des images, discuter en temps réel, rechercher d'autres utilisateurs et personnaliser leur profil.
 
-## 🔧 Fonctionnalités principales
+---
 
-- 🔐 Authentification Firebase
-- 🏠 Page d'accueil avec posts
-- 🔎 Recherche d'utilisateurs
-- 📸 Création de posts avec images
-- 💬 Chat en temps réel
-- 👤 Profil avec biographie et photo de profil
-- 🖼️ Générateur automatique de bio (avec OpenAI - désactivé dans cette version publique)
+## ✨ Fonctionnalités principales
+
+- 🔐 Authentification sécurisée (Firebase Auth)
+- 🏠 Fil d’actualité avec publications (texte + image)
+- 📸 Création de posts avec upload d’image
+- 💬 Chat général en temps réel (Firestore)
+- 🔎 Recherche d’utilisateurs par nom
+- 👤 Page de profil avec photo et biographie
+- 🤖 Générateur de bio automatique (OpenAI – désactivé en version publique)
+
+---
 
 ## 📸 Aperçu de l'application
 
-| Modifier le profil | Rechercher un utilisateur | Ajouter un post |
-|--------------------|---------------------------|------------------|
-| ![Edit Profil](screenshots/edit-profil.png) | ![Recherche](screenshots/chercher_utilsateur.png) | ![Post](screenshots/ajouter_post.png) |
+| Accueil | Rechercher un utilisateur | Ajouter un post |
+|--------|----------------------------|------------------|
+| ![Accueil](screenshots/home.png) | ![Recherche](screenshots/chercher_utilsateur.png) | ![Post](screenshots/ajouter_post.png) |
 
-| Chat général | Profil utilisateur | Accueil |
-|--------------|--------------------|---------|
-| ![Chat](screenshots/chat.png) | ![Profil](screenshots/profil.png) | ![Home](screenshots/home.png) |
+| Modifier le profil | Chat général | Profil utilisateur |
+|--------------------|--------------|--------------------|
+| ![Profil](screenshots/edit-profil.png) | ![Chat](screenshots/chat.png) | ![Utilisateur](screenshots/profil.png) |
 
-## 🧪 Technologies utilisées
+---
 
-- React
-- Firebase (Auth, Firestore, Storage)
-- Tailwind CSS
-- Vite
+## 🧰 Technologies utilisées
+
+- **React** – Frontend dynamique
+- **Firebase** – Authentification, Firestore (chat & posts), Storage (images)
+- **Tailwind CSS** – Stylisation moderne et responsive
+- **Vite** – Outil de build ultra-rapide
+
+---
+
+## 📅 Date de finalisation du projet
+
+*26 *Mars 2025**
